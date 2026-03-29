@@ -70,6 +70,19 @@ A system developed to manage farmer data, land records, loan processing, and gov
 **Workflow**
 Farmer → Bank → Government → Subsidy/Loan Processing → Land Transactions
 
+**Screenshots**
+**Backlog**
+
+![Backlog](backlog.png)
+
+**Board**
+![Board](board.png)
+
+**Milestones**
+![Milestones](milestones.png)
+
+**User Stories**
+![Stories](stories.png)
 
 **Author**
 
