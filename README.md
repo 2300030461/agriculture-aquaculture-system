@@ -73,16 +73,16 @@ Farmer → Bank → Government → Subsidy/Loan Processing → Land Transactions
 **Screenshots**
 **Backlog**
 
-![Backlog](backlog.png)
+![Backlog](Backlog.png)
 
 **Board**
-![Board](board.png)
+![Board](Board.png)
 
 **Milestones**
-![Milestones](milestones.png)
+![Milestones](Milestones.png)
 
 **User Stories**
-![Stories](stories.png)
+![Story](story.png)
 
 **Author**
 
